@@ -6,7 +6,7 @@
     #box(stroke: (0.25pt + black), inset: 0.5em)[
       `#set page(margin: tschich(a, b))`] #v(1em, weak: true)
     $a = #page.width.mm()$ mm #h(2em) $b = #page.height.mm()$ mm #v(1.5em, weak: true) 
-    #text(size: 8em/11)[For advanced usage see the \u{261E} #link("!!!")[manual].]]]}
+    #text(size: 8em/11)[For advanced usage see the \u{261E} #link("https://raw.githubusercontent.com/switchlex/tschich/refs/heads/main/docs/manual.pdf")[manual].]]]}
 
 
 /// Canons for computing margins
