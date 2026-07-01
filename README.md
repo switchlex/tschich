@@ -40,7 +40,7 @@ Given the page's dimensions, the margins can be automatically set up by using:
 #set page(margin: tschich(a, b))
 ```
 
-This standard function reproduces a nine part division following van de Graaf's adaption of Villard's canon (as reconstructed by Jan Tschichold) — that is: the inner margin will be one ninth and the outer margin will be two ninths of the page's width. The same goes for the top and bottom margin in relation to the page's height.
+This standard function reproduces a nine part division following van de Graaf's adaption of Villard's canon (as reconstructed by [Jan Tschichold](https://link.springer.com/chapter/10.1007/978-3-0348-7799-2_7)) — that is: the inner margin will be one ninth and the outer margin will be two ninths of the page's width. The same goes for the top and bottom margin in relation to the page's height.
 
 ## Advanced usage
 
