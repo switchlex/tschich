@@ -14,10 +14,34 @@
 
 </div>
 
+---
+
 <div align="center">
 
 tschich is a simple tool for  achieving perfect proportions on the page — no matter the paper's dimensions.
 
 </div>
 
-![](examples/showcase.png)
+![Showcase of the canons provided by tschich applied to an example text.](examples/showcase.png)
+
+---
+
+## Using tschich
+
+Setting up the margins for placing the type area on the page is all about proportion. It must always take the page's width (`a`) and height (`b`) into consideration. These measurements, (if not already known), can be displayed by using:
+
+```typst
+#tschich-help
+```
+
+Given the page's dimensions, the margins can be automatically set up by using:
+
+```typst
+#set page(margin: tschich(a, b))
+```
+
+This standard function reproduces a nine part division following van de Graaf's adaption of Villard's canon (as reconstructed by Jan Tschichold) — that is: the inner margin will be one ninth and the outer margin will be two ninths of the page's width. The same goes for the top and bottom margin in relation to the page's height.
+
+## Advanced usage
+
+Besides this, tschich does also provide a variable version of Villard's canon, an adaption of Tschichold's medieval ideal canon, a function for retrieving the type area's dimensions and a function for centering it on the page. To learn more, simply confer the [manual](docs/manual.pdf).
