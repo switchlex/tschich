@@ -22,7 +22,7 @@ tschich is a simple tool for  achieving perfect proportions on the page — no m
 
 </div>
 
-![Showcase of the canons provided by tschich applied to an example text.](examples/showcase.png)
+[![Showcase of the canons provided by tschich applied to an example text.](examples/showcase.png)](examples/example.typ)
 
 ---
 
