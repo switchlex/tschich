@@ -18,7 +18,7 @@
 
 <div align="center">
 
-tschich is a simple tool for  achieving perfect proportions on the page — no matter the paper's dimensions.
+tschich is a simple tool for achieving perfect proportions on the page — no matter the paper's dimensions.
 
 </div>
 
@@ -44,4 +44,4 @@ This standard function reproduces a nine part division following van de Graaf's 
 
 ## Advanced usage
 
-Besides this, tschich does also provide a variable version of Villard's canon, an adaption of Tschichold's medieval ideal canon, a function for retrieving the type area's dimensions and a function for centering it on the page. To learn more, simply confer the [manual](docs/manual.pdf).
+Besides this, tschich does also provide a variable version of Villard's canon, an adaption of Tschichold's medieval ideal canon, a function for retrieving the type area's dimensions, for centering it on the page and a function to estimate the optimal font size. To learn more, simply confer the [manual](docs/manual.pdf).
