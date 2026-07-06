@@ -1,4 +1,4 @@
-#import "@preview/tschich:0.1.0": *
+#import "@preview/tschich:0.2.0": *
 
 #set text(
   size: 9pt, font: "EB Garamond",
